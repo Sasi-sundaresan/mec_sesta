@@ -1,0 +1,24 @@
+
+
+###
+POST http://localhost:1122/sesta/addonlinecertification
+Content-Type: application/json
+
+{
+    "academic_year":22,
+    "semester_id":0,
+    "department_id":9,
+    "name_of_the_event":"workshop",
+    "year":4,
+    "semester":5,
+    "section":"c",
+    "online_certification":"no",
+    "name_of_the_couse":"sest",
+    "date":"2023-10-8",
+    "duration":"2023-1-9",
+    "details_of_the_organization":"ok",
+    "awards_and_recognitions":"no",
+    "outcome_of_the_activity":"ok",
+    "certificate_pdf":"yes"
+}
+###
